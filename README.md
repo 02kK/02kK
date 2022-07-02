@@ -10,9 +10,10 @@
 
 <h2>⚡️ WIP</h2> 
 <a href="https://konohoken.com">
-<img src="./img/konohoken_logo.svg" alt="konohoken_logo" width="25%">
+<img src="./img/konohoken_logo.svg" alt="konohoken_logo" width="25%" style="background: #fff;">
 </a>
 
+<!-- MEMO -->
 <!-- ## ⚡️ PR
 
 <a href="http://net.cive.gifu-u.ac.jp/">
