@@ -14,6 +14,6 @@
 
 ## ⚡️ WIP
 
-<a href="https://konohoken.com">
+<a href="https://konohoken.com" target="_blank" rel="noopener noreferrer">
 <img src="./img/konohoken_logo.svg" alt="konohoken_logo"width="25%">
 </a>
