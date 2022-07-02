@@ -12,8 +12,14 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=02kK&layout=compact&theme=highcontrast" />
 </a>
 
+
 ## ⚡️ WIP
 
-<a href="https://konohoken.com" target="_blank" rel="noopener noreferrer">
-<img src="./img/konohoken_logo.svg" alt="konohoken_logo"width="25%">
+<a href="https://konohoken.com">
+<img src="./img/konohoken_logo.svg" alt="konohoken_logo" width="25%">
+</a>
+
+## ⚡️ PR
+<a href="http://net.cive.gifu-u.ac.jp/">
+<img src="./img/wi-day-sleet-storm.svg" alt="konohoken_logo" width="25%">
 </a>
