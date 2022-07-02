@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=180&text=Thx 4 comming 🥳&fontColor=fff&fontAlignY=40&color=0:1FD1F9,100:B621FE&animation=scaleIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&text=Thx 4 commin' 🥳&fontColor=fff&fontAlignY=40&color=0:1FD1F9,100:B621FE&animation=scaleIn" width="100%"/>
 
 <h2>🎨 Recent activities</h2>
 <a href="#" align="left">
@@ -12,10 +12,3 @@
 <a href="https://konohoken.com">
 <img src="./img/konohoken_logo.svg" alt="konohoken_logo" width="25%" style="background: #fff;">
 </a>
-
-<!-- MEMO -->
-<!-- ## ⚡️ PR
-
-<a href="http://net.cive.gifu-u.ac.jp/">
-<img src="./img/wi-day-sleet-storm.svg" alt="konohoken_logo" width="25%">
-</a> -->
